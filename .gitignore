@@ -1,0 +1,8 @@
+*.uvguix.*
+*.uvoptx
+*.uvopt
+Outputs/
+bin/
+Listings/
+DebugConfig/
+*.TMP
