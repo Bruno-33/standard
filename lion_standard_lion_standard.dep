@@ -1,5 +1,5 @@
 Dependencies for Project 'lion_standard', Target 'lion_standard': (DO NOT MODIFY !)
-F (.\User\main.c)(0x5B477B67)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -I.\BSP -I.\User -I.\STLibraries -I.\RMLibraries -I.\Tasks -I.\MPU6050-I C:\Users\Administrator\Desktop\lion\standard\RTE-I F:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I F:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.5\Device\Include-D_RTE_ -DSTM32F40XX -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -o .\outputs\main.o --omf_browse .\outputs\main.crf --depend .\outputs\main.d)
+F (.\User\main.c)(0x5B55B6E5)(--c99 -c --cpu Cortex-M4.fp -D__MICROLIB -g -O0 --apcs=interwork -I.\BSP -I.\User -I.\STLibraries -I.\RMLibraries -I.\Tasks -I.\MPU6050-I C:\Users\Administrator\Desktop\lion\standard\RTE-I F:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I F:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.5\Device\Include-D_RTE_ -DSTM32F40XX -DUSE_STDPERIPH_DRIVER -DSTM32F4XX -o .\outputs\main.o --omf_browse .\outputs\main.crf --depend .\outputs\main.d)
 I (User\main.h)(0x5B477888)
 I (.\STLibraries\stm32f4xx.h)(0x5A6DAB83)
 I (F:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h)(0x512C1E62)
